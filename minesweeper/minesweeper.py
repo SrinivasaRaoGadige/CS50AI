@@ -281,4 +281,8 @@ class MinesweeperAI():
 
         if possible_moves:
             return random.choice(possible_moves)
+<<<<<<< HEAD
         return None
+=======
+        return None
+>>>>>>> 190b97b81c71c30ab92b5014abecb1109eac9b9a
